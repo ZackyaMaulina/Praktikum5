@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Zackyam | About Me </title>
+<style>
+
+.wrap{
+    background-color : rgba(128, 128, 128, 0.534);
+    width : 300px;
+    color : black;
+    margin : 100px auto;
+    padding : 100px;
+}
+
+body {
+    <h1>About Me</h1>
+}
+
+</style>
+</head>
+
+
+</body>
+
+</html>
